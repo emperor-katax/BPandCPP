@@ -18,7 +18,7 @@ Home: www.kataxwork.com
 
 This application:
 
-> demonstrate similar scenarios with 6 maps in BP and C++
+> 6 maps
 
 > Using collision scenarios, each as separate map with similar Blueprint and C++ approach
 
