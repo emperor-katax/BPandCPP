@@ -24,9 +24,6 @@ This application:
 
 > Search and find properties on collision actor with C++
 
-> C++ and Blueprint
-
-
 
 Using:<b>
 
